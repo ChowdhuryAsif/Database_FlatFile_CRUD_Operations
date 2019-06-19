@@ -2,7 +2,7 @@
 
 # Software used:
 
-    Intellij IDEA Community Edition 2018.2
+    Netbeans 8.2
 
     XAMPP Control Panel v3.2.2 (for monitoring the database)
 
