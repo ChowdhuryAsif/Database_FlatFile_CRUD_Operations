@@ -14,9 +14,7 @@
 
     SQL (for querying from the database)
 
-# Java Dependencies used:
-
-    JDK 1.8.0_181
+# Java Libraries:
 
     MySQL JDBC Driver 5.1.23
 
